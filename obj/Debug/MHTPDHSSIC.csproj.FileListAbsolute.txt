@@ -1,0 +1,15 @@
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\MHTPDHSSIC.exe.config
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\MHTPDHSSIC.exe.manifest
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\MHTPDHSSIC.application
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\MHTPDHSSIC.exe
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\MHTPDHSSIC.pdb
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\bin\Debug\Wolfram.NETLink.dll
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.csprojResolveAssemblyReference.cache
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.Form1.resources
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.Properties.Resources.resources
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.csproj.GenerateResource.Cache
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.TrustInfo.xml
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.exe.manifest
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.application
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.exe
+F:\Users\abazh\Google Диск\РосНОУ\ВКР\ВКР_БАЖУТОВ_А_И_444\obj\Debug\MHTPDHSSIC.pdb
