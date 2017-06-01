@@ -1,0 +1,6 @@
+yotarif/bin/release
+yotarif/obj/
+*.suo
+ILMerge.exe
+settings.db
+Form1.cs
